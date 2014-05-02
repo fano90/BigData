@@ -10,7 +10,7 @@ public class ProvaDiff {
     f=new FileReader("/home/student/Risultati/frequenzeTUTTI.txt");
 
     BufferedReader br = new BufferedReader(f);
-    
+    //ciao
     
     
     //Legge riga per riga dal file
